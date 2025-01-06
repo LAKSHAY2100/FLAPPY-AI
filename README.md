@@ -61,5 +61,4 @@ player's rotation
 −0.5 - touch the top of the screen
 </li>
 
-![Uploading dqn.gif…]()
 
